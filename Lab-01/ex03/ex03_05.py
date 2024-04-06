@@ -1,4 +1,4 @@
-def dem_so_lan_xuat_hien (lst):
+def dem_so_lan_xuat_hien(lst):
     count_dict = {}
     for item in lst:
         if item in count_dict:
